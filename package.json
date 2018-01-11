@@ -1,0 +1,12 @@
+{
+  "name": "learnyounode-solution",
+  "version": "1.0.0",
+  "description": "Solutions for learnyounode",
+  "author": "Shukhratbek Mamadaliev",
+  "license": "MIT",
+  "dependencies": {
+    "bl": "1.2.1",
+    "concat-stream": "1.6.0",
+    "through2-map": "3.0.0"
+  }
+}
